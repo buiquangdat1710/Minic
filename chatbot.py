@@ -8,7 +8,7 @@ import streamlit.components.v1 as com
 page_bg_img = '''
 <style>
 .stApp {
-  background-image: url("https://images.pexels.com/photos/18696053/pexels-photo-18696053/free-photo-of-thien-nhien-t-i-m-u-k-t-c-u.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2");
+  background-image: url("https://images.unsplash.com/photo-1478760329108-5c3ed9d495a0?q=80&w=3774&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D");
   background-size: cover;
 }
 </style>
